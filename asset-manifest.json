@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crudreact/static/css/main.3d10672c.css",
+    "main.js": "/crudreact/static/js/main.d2d231bb.js",
+    "index.html": "/crudreact/index.html",
+    "main.3d10672c.css.map": "/crudreact/static/css/main.3d10672c.css.map",
+    "main.d2d231bb.js.map": "/crudreact/static/js/main.d2d231bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d10672c.css",
+    "static/js/main.d2d231bb.js"
+  ]
+}
